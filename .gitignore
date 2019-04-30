@@ -1,0 +1,10 @@
+.idea
+*.iml
+
+*.log
+*.png
+
+*.html
+
+target
+test-output
