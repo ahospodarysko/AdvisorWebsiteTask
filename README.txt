@@ -1,3 +1,6 @@
+# AdvisorWebsiteTask
+Client task to demonstrate Java/Selenium skills
+
 Tools needed to run tests:
 
 1. Download Java jdk
