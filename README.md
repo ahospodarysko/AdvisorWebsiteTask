@@ -1,5 +1,4 @@
-# AdvisorWebsiteTask
-Client task to demonstrate Java/Selenium skills
+# AdvisorWebsiteTask - Client task to demonstrate Java/Selenium skills
 
 Tools needed to run tests:
 
